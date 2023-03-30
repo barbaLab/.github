@@ -3,4 +3,4 @@
 
 ## Contents ##
 
-* [nigeLab](https://github.com/barbaLab)
+* [nigeLab](https://github.com/barbaLab/nigeLab)
